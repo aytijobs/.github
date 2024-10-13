@@ -2,4 +2,4 @@
 
 ### Ayti Jobs's official development projects.
 
-## Website - (www.aytijobs.uz)[www.aytijobs.uz]
+## Website - www.aytijobs.uz
